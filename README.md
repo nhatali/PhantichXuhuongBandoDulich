@@ -26,7 +26,7 @@ D:/BigData/Tourism/
 ✅ So sánh lượng khách giữa các địa điểm du lịch  
 
 ## ⚙️ Cài Đặt  
-```sh
+```
 # Cài đặt Apache Spark và PySpark
 pip install pyspark
 
@@ -35,11 +35,11 @@ pip install matplotlib seaborn geopandas pandas
 ```
 
 ## 🚀 Cách Chạy  
-```sh
+```
 python tourism_analysis.py
 ```
 
 ## 📝 License  
-© 2025 **Nhóm 4 - Lớp CNTT 1603 🎓**  
+© 2025 **Nhóm 8 - Lớp CNTT 1603 🎓**  
 🏢 **Trường Đại học Đại Nam**
 
